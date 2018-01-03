@@ -23,4 +23,9 @@ img {
 body {
   /*background-color: darksalmon; */
   background: linear-gradient(red,yellow);
+  background-repeat: space;
+}
+
+html {
+  height: 100%;
 }
